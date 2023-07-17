@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="[SE] Tsubaki"/>
+        <card number="3" name="[SE] Latham, Vanguard Captain"/>
+        <card number="3" name="[SE] Floral Fencer"/>
+        <card number="3" name="[SE] Moonlight Assassin"/>
+        <card number="3" name="[SE] White General"/>
+        <card number="2" name="[SE] Ninja Trainee"/>
+        <card number="2" name="[SE] Veteran Lancer"/>
+        <card number="3" name="[SE] Fencer"/>
+        <card number="3" name="[SE] Oathless Knight"/>
+        <card number="3" name="[SE] Quickblader"/>
+        <card number="2" name="[SE] Forge Weaponry"/>
+        <card number="2" name="[SE] Onslaught"/>
+        <card number="3" name="[SE] Unbridled Fury"/>
+        <card number="2" name="[SE] Goblin"/>
+        <card number="1" name="[SE] Fighter"/>
+        <card number="2" name="[SE] Angelic Sword Maiden"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="[SE] Erika"/>
+        <card number="3" name="[SE] Floral Fencer (Evolved)"/>
+        <card number="3" name="[SE] Oathless Knight (Evolved)"/>
+        <card number="3" name="[SE] Quickblader (Evolved)"/>
+        <card number="1" name="[SE] Goblin (Evolved)"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="[SE] Luna"/>
+        <card number="3" name="[SE] Playful Necromancer (Evolved)"/>
+        <card number="3" name="[SE] Lesser Mummy (Evolved)"/>
+        <card number="3" name="[SE] Lilith (Evolved)"/>
+        <card number="1" name="[SE] Goliath (Evolved)"/>
+    </zone>
+    <zone name="main">
+        <card number="3" name="[SE] Queen Vampire"/>
+        <card number="3" name="[SE] Alucard"/>
+        <card number="3" name="[SE] Playful Necromancer"/>
+        <card number="3" name="[SE] Midnight Vampire"/>
+        <card number="3" name="[SE] Night Horde"/>
+        <card number="2" name="[SE] Spectre"/>
+        <card number="2" name="[SE] Spartoi Sergeant"/>
+        <card number="2" name="[SE] Undead King"/>
+        <card number="3" name="[SE] Lesser Mummy"/>
+        <card number="3" name="[SE] Lilith"/>
+        <card number="2" name="[SE] Razory Claw"/>
+        <card number="3" name="[SE] Undying Resentment"/>
+        <card number="1" name="[SE] Angelic Sword Maiden"/>
+        <card number="2" name="[SE] Goliath"/>
+        <card number="3" name="[SE] Summon Bloodkin"/>
+        <card number="2" name="[SE] Fighter"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="[SE] Rowen"/>
+        <card number="3" name="[SE] Dragon Warrior (Evolved)"/>
+        <card number="3" name="[SE] Roc (Evolved)"/>
+        <card number="3" name="[SE] Dragonrider (Evolved)"/>
+        <card number="1" name="[SE] Goliath (Evolved)"/>
+    </zone>
+    <zone name="main">
+        <card number="3" name="[SE] Fafnir"/>
+        <card number="3" name="[SE] Dragon Oracle"/>
+        <card number="3" name="[SE] Dragon Warrior"/>
+        <card number="3" name="[SE] Dragonewt Princess"/>
+        <card number="3" name="[SE] Dragonguard"/>
+        <card number="2" name="[SE] Fire Lizard"/>
+        <card number="2" name="[SE] Dread Dragon"/>
+        <card number="3" name="[SE] Roc"/>
+        <card number="3" name="[SE] Glint Dragon"/>
+        <card number="3" name="[SE] Dragonrider"/>
+        <card number="3" name="[SE] Seabrand Dragon"/>
+        <card number="2" name="[SE] Blazing Breath"/>
+        <card number="2" name="[SE] Dragon Wings"/>
+        <card number="2" name="[SE] Goliath"/>
+        <card number="1" name="[SE] Angelic Sword Maiden"/>
+        <card number="2" name="[SE] Angelic Snipe"/>
+    </zone>
+</cockatrice_deck>
